@@ -11,7 +11,7 @@
 
 - Ubuntu (Вероятно, под WSL тоже заработает)
 - python 3
-- Docker
+- Docker без *sudo*
 
 ## Запуск
 
